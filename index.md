@@ -4,7 +4,7 @@ title: Givized13
 description: Hai welcome to my cool website :3
 ---
 
-<section markdown="1" class="brief">
+<section class="brief">
     <img src="favicon.ico">
 
     <div class="text">
@@ -18,7 +18,7 @@ description: Hai welcome to my cool website :3
 
 ## Welcome to my site:
 
-I'm Givized13 (They/She), a small time variety streamer and youtuber
+I'm Givized13 (They/She), a small time variety streamer and youtuber.
 This site purely exists for me to mess around and try to learn a little programming, so dont judge it too hard
 
 </section>
